@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    font-family: "Roboto", sans-serif;
+    font-size: 13.6px;
+    font-weight: 700;
+}
+.hero-section{
+    background-color: #ffeccc;
+}
+.container .row>div{
+    min-height: 50dvh;  
+    width: 38%;
+}
+.her{
+    width: 70%;
+}
+.pot{
+    min-height: 30dvh;
+}
+.pot .row>div{
+    min-height: 30dvh;
+    width: 30%;
+}
+.pot .container{
+    min-height: 30dvh;
+    width: 80%;
+}
+.fa-star{
+    color: #f5c518;
+}
+.pott .container{
+    min-height: 30dvh;
+    width: 80%;
+}
+.opp{
+    background-color: #a27d52;
+}
+.opp .container{
+    min-height: 50dvh;
+    width: 100%;
+}
+.opp .row>div{
+    height: 30dvh;
+    width: 43%;
+}
+.oop .row{
+    height: 50dvh;
+}
+.oop .row>img{
+    height: 50dvh;
+    width: 100%;
+}
